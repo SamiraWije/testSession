@@ -2,9 +2,10 @@ aaaaaa
 ssssss
 dddddd
 ffffff
-<<<<<<< HEAD
-=======
 gggggg
 hhhhhh
 iiiiii
->>>>>>> test2
+jjjjjj
+kkkkkk
+llllll
+mmmmmm
